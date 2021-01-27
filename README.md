@@ -1,7 +1,8 @@
 # [Project] 레이더 관측 데이터 활용 강수량 예측 모델 개발 (2020.11)   
+- Duration : 3 weeks
    
 ## Data Source   
-DACON 공공데이터 활용 수력 댐 강우예측 AI 경진대회   
+- DACON 공공데이터 활용 수력 댐 강우예측 AI 경진대회   
 
 ## Models   
 - CNN   
@@ -9,7 +10,13 @@ DACON 공공데이터 활용 수력 댐 강우예측 AI 경진대회
 - CNN+UNet   
 - ConvLSTM+UNet   
 - CNN+UNet+tuning   
-      
+   
+## Technologies Used   
+- Python (+Pandas, +Numpy)   
+- OpenAPI   : Sklearn, Tensorflow, Keras, OpenCV   
+- RDBMS : Oracle, SQLite3   
+- IDE : Pycharm, JupyterNotebook, Colab   
+   
 ## References   
 [1] Xingjian Shi, Zhihan Gao, Leonard Lausen, et al., Deep Learning for Precipitation Nowcasting: A Benchmark and A New Model (NIPS2017)   
 https://papers.nips.cc/paper/7145-deep-learning-for-precipitation-nowcasting-a-benchmark-and-a-new-model.pdf   
