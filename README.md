@@ -26,6 +26,4 @@ https://gmd.copernicus.org/articles/13/2631/2020/gmd-13-2631-2020.pdf
 ## 수상
 한국 과학기술정보통신부-한국생산성본부 이미지 분석 기반의 인공지능 플랫폼 개발자 양성과정 성과 평가 1위
    
-![KakaoTalk_20201124_183253551_09](https://user-images.githubusercontent.com/69300064/105973360-ffbceb80-60cf-11eb-866e-75c2b04e22db.jpg)   
-
-<img src="https://user-images.githubusercontent.com/69300064/105973360-ffbceb80-60cf-11eb-866e-75c2b04e22db.jpg" width=50% height=50%>
+<img src="https://user-images.githubusercontent.com/69300064/105973360-ffbceb80-60cf-11eb-866e-75c2b04e22db.jpg" width=70% height=70%>
