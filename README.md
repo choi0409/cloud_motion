@@ -1,8 +1,4 @@
 # [Project] 레이더 관측 데이터 활용 강수량 예측 모델 개발 (2020.11)   
-
-![KakaoTalk_20201124_183253551_09](https://user-images.githubusercontent.com/69300064/105973360-ffbceb80-60cf-11eb-866e-75c2b04e22db.jpg)   
-과학기술정보통신부-한국생산성본부 이미지 분석 기반의 인공지능 플랫폼 개발자 양성과정 최종 프로젝트 1위
-
    
 ## Data Source   
 DACON 공공데이터 활용 수력 댐 강우예측 AI 경진대회   
@@ -19,3 +15,8 @@ DACON 공공데이터 활용 수력 댐 강우예측 AI 경진대회
 https://papers.nips.cc/paper/7145-deep-learning-for-precipitation-nowcasting-a-benchmark-and-a-new-model.pdf   
 [2] Georgy Ayzel, Tobias Scheffer, and Maik Heistermann, RainNet v1.0: a convolutional neural network for radar-based precipitation nowcasting (EGU 2020)   
 https://gmd.copernicus.org/articles/13/2631/2020/gmd-13-2631-2020.pdf   
+   
+## 수상
+과학기술정보통신부-한국생산성본부 이미지 분석 기반의 인공지능 플랫폼 개발자 양성과정 성과 평가 프로젝트 1위
+   
+![KakaoTalk_20201124_183253551_09](https://user-images.githubusercontent.com/69300064/105973360-ffbceb80-60cf-11eb-866e-75c2b04e22db.jpg)   
