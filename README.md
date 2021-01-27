@@ -1,5 +1,6 @@
 # [Project] 레이더 관측 데이터 활용 강수량 예측 모델 개발 (2020.11)   
 - Duration : 3 weeks
+- Overview : CloudMotion_Project_Team5.pdf
    
 ## Data Source   
 - DACON 공공데이터 활용 수력 댐 강우예측 AI 경진대회   
