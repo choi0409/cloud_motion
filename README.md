@@ -28,4 +28,4 @@ https://gmd.copernicus.org/articles/13/2631/2020/gmd-13-2631-2020.pdf
    
 ![KakaoTalk_20201124_183253551_09](https://user-images.githubusercontent.com/69300064/105973360-ffbceb80-60cf-11eb-866e-75c2b04e22db.jpg)   
 
-<img src="https://user-images.githubusercontent.com/69300064/105973360-ffbceb80-60cf-11eb-866e-75c2b04e22db.jpg" width="100" height="100">
+<img src="https://user-images.githubusercontent.com/69300064/105973360-ffbceb80-60cf-11eb-866e-75c2b04e22db.jpg" width=50% height=50%>
